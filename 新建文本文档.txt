@@ -4,7 +4,7 @@
             <artifactId>amqp-client</artifactId>
             <version>5.2.0</version>
         </dependency>
-
+     <!--0-->
         <dependency>
             <groupId>org.slf4j</groupId>
             <artifactId>slf4j-simple</artifactId>
